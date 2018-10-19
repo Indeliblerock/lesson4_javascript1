@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 18, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Poteet
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We used JavaScript to create a monthly expense calculator.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://indeliblerock.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to use parseFloat to convert strings to floating point numbers.
+2. We learned how to use getElementById to return information to the HTML document.
+3. We learned how to use an external JavaScript file to incorporate dynamic content into a website.
 
 
 
